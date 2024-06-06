@@ -47,3 +47,28 @@ This is part of the output generated with the provided pdf. Script will generate
   },
 ]
 ```
+
+## Script 2: summarise.py
+On execution, the asks the user to enter names of cities seperated with a comma and prints the names of college that mention the city in the name.
+
+### Output
+Example excution:
+```
+Enter cities (Delim : ','):
+Cities: Pune, Mumbai
+
+
+****************************************
+Pune
+****************************************
+- TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune
+- Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune
+... MORE WILL BE SHOWN
+
+****************************************
+ Mumbai
+****************************************
+- Institute of Chemical Technology, Mumbai Marathwada off campus, Jalna
+- Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai
+... MORE WILL BE SHOWN
+```
