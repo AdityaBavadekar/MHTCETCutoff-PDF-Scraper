@@ -49,8 +49,8 @@ This is part of the output generated with the provided pdf. Script will generate
 ```
 
 ## Script 2: summarise.py
-On execution, the asks the user to enter names of cities seperated with a comma and prints the names of college that mention the city in the name.
-
+On execution, the asks the user to enter names of cities seperated with a comma and prints the names of colleges that mention the city in their name.
+> ℹ️ Note: It will show colleges that mention the city in their name. It is obvious that some instutites that don't mention the city name will be missed out so be careful.
 ### Output
 Example excution:
 ```
